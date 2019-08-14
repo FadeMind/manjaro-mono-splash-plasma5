@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=Manjaro Linux Mono KDE Splash Screen
+Name=Manjaro-Mono-Splash
+X-KDE-PluginInfo-Author=fademind
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=fademind@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-Name=com.manjaro.mono.splash
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/fademind
+X-KDE-ServiceTypes=Plasma/LookAndFeel
